@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AirTurnInterface",
+        "repositoryURL": "https://github.com/AirTurn/AirTurnInterface-mergeable-SP.git",
+        "state": {
+          "branch": null,
+          "revision": "4777f376bc86389c98ebf0d786735ed306b5b39d",
+          "version": "4.10.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
